@@ -1,0 +1,77 @@
+ button {
+   border-radius: 6px;
+   border-color: #04aa6d;
+ }
+
+ #ozi {
+   color: #04aa6d;
+   width: 200px;
+
+ }
+
+ .header {
+   background-color: #282a35;
+   height: 80px;
+   text-align: center;
+   font-size: 30px;
+   word-spacing: 20px;
+ }
+
+ .header a {
+   text-decoration: none;
+   color: white;
+   line-height: 80px;
+ }
+
+ .header a :hover {
+   color: #04aa6d;
+   font-size: 40PX;
+ }
+
+ .btn {
+   height: 60px;
+   font-size: 18px;
+   background-color: #04aa6d;
+   /* color: red; */
+   border-color: #04aa6d;
+ }
+
+ .qora {
+   background-color: black;
+ }
+
+ button a {
+   text-decoration: none;
+   color: #ffffff;
+   border-radius: 10px;
+ }
+
+ .about {
+   background-color: #d9eee1;
+ }
+
+ .about p {
+   line-height: 40px;
+   text-indent: 20px;
+ }
+
+ span {
+   color: black;
+   font-size: 20px;
+ }
+
+ .sp1 {
+   color: brown;
+ }
+
+ .sp2 {
+   color: red;
+ }
+
+ .sp3 {
+   color: #0000CD;
+ }
+
+ .uu :hover {
+   color: #04aa6d;
+ }
